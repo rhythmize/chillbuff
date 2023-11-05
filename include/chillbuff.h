@@ -32,7 +32,7 @@ extern "C" {
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>
-#include "utils.h"
+#include "utils/definitions.h"
 
 /* The following are the chillbuff exit codes returned from the various chillbuff functions. */
 
